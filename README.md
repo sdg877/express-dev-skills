@@ -1,3 +1,4 @@
+Express Dev Skills
 A simple Express application built to practice and demonstrate basic CRUD (Create, Read, Update, Delete) functionality.
 
 Description
@@ -11,7 +12,8 @@ Delete development skills
 
 Technologies Used
 Node.js
-Express
+Express.js
+EJS (Embedded JavaScript)
 HTML & CSS (for front-end rendering)
 JavaScript
 
@@ -19,3 +21,6 @@ Usage
 Navigate to the home page to see a list of current development skills.
 Use the "Add Skill" form to add new skills.
 Click on a skill to edit or delete it.
+
+License
+This project is licensed under the MIT License.
